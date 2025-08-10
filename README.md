@@ -29,14 +29,5 @@ Welcome to my GitHub profile! I am currently pursuing a B.Tech in Computer Engin
 
 ---
 
-## 📂 GitHub Stats
-
-<!-- Optional: GitHub stats cards, uncomment if you want to show them -->
-<!--
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaAgniho3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAgniho3&layout=compact)
--->
-
----
 
 Thanks for visiting my profile! Feel free to connect, collaborate, or reach out if you want to discuss anything tech-related.
